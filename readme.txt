@@ -2,5 +2,8 @@
 
 add a txt for change
 
-B1 and C4 change
+<<<<<<<
 
+=======
+B2 change
+>>>>>>> .merge_file_a02880
